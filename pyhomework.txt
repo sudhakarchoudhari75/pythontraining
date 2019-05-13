@@ -1,0 +1,106 @@
+1. Write a program to check if the given number is multiple of 8 without using arithmatic. use bitwise operator.
+
+functions are reusable block of code.
+
+def <function_name>([argument_list]):
+    <body>
+
+
+positional arguments -
+
+add(1,2) => add(a,b)
+
+keyword argument
+
+add(a=20, b=10)
+
+add(10, a=20, b=10) ==> valid
+
+add(a=20, b=10, 10) ==> no valid
+
+
+2. Multiply 1,2,3,4... numbers without using loop
+
+3. def add( *args): ==> pass multiple arguments
+
+4. def add( a,b,*args): ==> pass multiple arguments
+
+4. Variable arguments
+
+	def varArgsDictDemo(a,b,*args,**kwargs):
+
+
+5. move all scripts to
+	- functions
+	- write if __name___
+	- put main
+	- get inputs acceptes in main
+
+6. write a python module which performs arithmatic operations -
+	-add, substract, mult, floor div, exp
+	- define main
+	- inside main write menu driven program to perform operations in a loop
+
+	
+7. write a prg to chk special number or not
+
+e.g 145 = 1! + 4! + 5!
+
+8. write a program to type fibonacci series upto n
+
+9. write a program to print following pattern
+
+
+			A
+		      B	A B
+		    C B A B c
+
+10.
+
+A           A
+A b       b A
+A b c   c b A
+A b c d c b A
+
+print multiple of 8
+
+1000
+10000
+11000
+100000
+101000
+
+
+
+num = eval(input("Enter Number Upto Which You Want To Print Multiples of 8: "))
+
+
+1. accept num from user, accept bit position and num of bits to turn off from the given position
+
+11111111
+
+H/W
+
+-- Write a program to add two number without using arithmatic operators (use bitwise operators)
+-- Write a program to accept two numbers from user, accept bit position and no of bits to swap of each other
+100   1100100
+31    0011111
+
+answer -
+92   1011100
+39   0100111
+
+-- write a program to find second larget
+-- write a program to implement stack using list
+-- write a program to accept 2 lists from user and find union between them
+
+1) accept file name
+read all its lines
+
+2) accept file name
+print max length and min length line
+
+3) read a config file and print dictionary of configurations
+config = 
+firstname=sudhakar
+lastname=choudhari

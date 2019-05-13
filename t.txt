@@ -1,0 +1,6 @@
+hello
+reading file
+my name is python3 helps to program
+accept num from user, accept bit position and num of bits to turn off from the given position
+nos
+print multiple of 8
